@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:584fd5,50:8154B3,100:a974bd&height=100&section=header&text=Hello, World!&fontColor=ffffff&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:584fd5,50:8154B3,100:a974bd&height=100&section=header&text=yumin&fontColor=ffffff&fontSize=40"/>
 
 <br>
 
@@ -37,7 +37,11 @@
 <br>
 
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myu-kim)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuminkym5)](https://solved.ac/yuminkym5)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myu-kim" />
+  </a>
+  <a href="https://solved.ac/yuminkym5">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuminkym5" />
+  </a>
 </div>
 </div>

@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:584fd5,50:8154B3,100:a974bd&height=100&section=header&text=Yumin%20%7C%20Building%20Web%20%26%20Apps&fontColor=ffffff&fontSize=35" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:584fd5,50:8154B3,100:a974bd&height=100&section=header&text=Yumin&fontColor=ffffff&fontSize=35" />
 
 <br>
 
@@ -7,7 +7,7 @@
 <p>
   Currently developing web applications and exploring Apple platform development.<br>
   I’m also learning to build fun and creative apps.<br>
-  Based in Seoul 🇰🇷
+  <em>Based in Seoul 🇰🇷</em>
 </p>
 
 <h4>Tech Stack</h4>

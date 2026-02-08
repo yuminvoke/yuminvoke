@@ -1,11 +1,11 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:584fd5,50:8154B3,100:a974bd&height=100&section=header&text=Yumin Kim&fontColor=ffffff&fontSize=35" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:584fd5,50:8154B3,100:a974bd&height=100&section=header&text=Yumin%20Kim&fontColor=ffffff&fontSize=35" />
 
 <br>
 
 <h4>About Me</h4>
 <p>
-  <small><em>📍 Based in Seoul, South Korea</em></small><br>
+  <small>📍 Based in Seoul, South Korea</small><br>
   Currently developing web applications and exploring Apple platform development.<br>
   I’m also learning to build fun and creative apps.
 </p>

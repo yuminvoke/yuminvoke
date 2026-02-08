@@ -5,7 +5,7 @@
 
 <h3>About Me</h3>
 <p>
-  I’m currently developing iOS apps and exploring cross-platform and web development.<br>
+  I’m currently developing web apps and exploring Apple platform development.<br>
   I’m also learning to build fun and creative apps.
 </p>
 

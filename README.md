@@ -27,11 +27,17 @@
 <br>
 
 <h3>Get In Touch</h3>
-<p>You can contact me at...</p>
 <a href="https://www.instagram.com/duskinblue/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <!-- <a href="https://www.linkedin.com/in/yuminkim-a81888341" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> -->
+
+<br>
+
+<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuminkym5)](https://solved.ac/yuminkym5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myu-kim&theme=highcontrast)
+</div>
 </div>

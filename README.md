@@ -36,7 +36,7 @@
 <br><br>
 
 <div>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=myu-kim&langs_count=4&theme=buefy"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=myu-kim&langs_count=4&theme=buefy" /></a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=myu-kim&layout=compact&langs_count=4&theme=buefy"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=myu-kim&layout=compact&langs_count=6&theme=buefy" /></a>
   <a href="https://solved.ac/yuminkym5"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuminkym5" /></a>
 </div>
 </div>

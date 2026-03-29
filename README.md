@@ -7,7 +7,7 @@
 <p>
   <sub>📍 Based in Seoul, South Korea</sub><br>
   Developing backend systems for AI-powered chatbot applications.<br>
-  Also building fun and creative applications.
+  Also building creative and engaging applications.
 </p>
 
 <h4>Tech Stack</h4>

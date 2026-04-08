@@ -43,7 +43,7 @@
 <br><br>
 
 <div>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=yuminvoke&layout=compact&langs_count=4&theme=swift"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=yuminvoke&layout=compact&langs_count=6&theme=swift" /></a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=yuminvoke&layout=compact&langs_count=6&theme=swift"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=yuminvoke&layout=compact&langs_count=6&theme=swift" /></a>
   <a href="https://solved.ac/yuminkym5"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuminkym5" /></a>
 </div>
 </div>

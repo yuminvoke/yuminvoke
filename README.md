@@ -6,7 +6,7 @@
 <h4>About Me</h4>
 <p>
   <sub>📍 Based in Seoul, South Korea</sub><br>
-  Developing backend systems for AI-powered chatbot applications.<br>
+  Currently studying LLM-powered web service development.<br>
   Also building creative and engaging applications.
 </p>
 
